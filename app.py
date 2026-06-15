@@ -94,7 +94,7 @@ st.caption("Developed by Naveen")
 
 """
 
-[with this file(app.py) And(requirements.txt :- streamlit )you can simply deploy this app with one
-click using streamlit ]
+[with this file(app.py) And(requirements.txt :- streamlit )you can simply deploy
+ this app with one click using streamlit ]
 
 """
